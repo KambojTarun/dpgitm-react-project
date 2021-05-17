@@ -7,3 +7,10 @@
 6. start the server: 
 	npm start
 7. open url: localhost:3000
+
+
+
+
+
+
+https://www.freecodecamp.org/news/how-to-build-a-react-project-with-create-react-app-in-10-steps/
